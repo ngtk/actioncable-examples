@@ -13,7 +13,7 @@ gem 'coffee-rails', github: "rails/coffee-rails"
 gem 'jquery-rails'
 gem 'turbolinks', github: "rails/turbolinks"
 
-gem 'jbuilder', '~> 2.0'
+gem 'jbuilder', '~> 2.9'
 
 group :development, :test do
   gem 'byebug'
